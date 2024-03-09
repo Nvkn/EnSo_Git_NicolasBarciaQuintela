@@ -16,4 +16,10 @@
 - git commit -m "Documento de propuestas de mejora eliminado."
 - git add .: Añadimos los archivos del repositorio al staging area.
 - git commit -m "Corrección de errores en historia.txt": Hacemos commit de la corrección de errores en este archivo (por omisión de dos comandos realizados).
-- 
+- git tag -a R2 -m "Segunda versión del repositorio de Control de Cambios": Ponemos la etiqueta R2 aportando una descripción de esta versión del repositorio.
+- git add .: Añadimos los archivos del repositorio al staging area.
+- git commit -m "Nueva versión del documento de proceso de control de cambios."
+- git log: Muestra el historial de commits, para localizar el ID del commit al que queremos volver.
+- git reset --soft 1a4b1a29f4726611b49c3b359d9971d7ea72f7be: Volvemos al commit anterior manteniendo los archivos.
+- git add .: Añadimos los archivos del repositorio al staging area.
+- git commit -m "Versión 3 del documento de proceso de control de cambios.":
