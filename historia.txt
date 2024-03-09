@@ -7,3 +7,8 @@
 - git status: Comprobamos el estado del repositorio.
 - git add .: Añadimos los archivos del repositorio al staging area.
 - git commit -m "Mejoras realizadas por los comentarios obtenidos."
+- git checkout master: Volvemos al branch master
+- git merge Mejoras: Hacemos merge de la rama Mejoras en la rama master.
+- git branch -d Mejoras: Eliminamos el branch Mejoras.
+- git add .: Añadimos los archivos del repositorio al staging area.
+- git commit -m "Documento de propuestas de mejora eliminado."
