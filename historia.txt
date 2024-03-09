@@ -29,3 +29,8 @@
 - git commit -m "Cambios en historia.txt": Hacemos commit de los cambios.
 - git push origin master: Hacemos push a la rama principal en el repositorio remoto.
 - git push origin --tags: Hacemos push de los tags al repositorio remoto.
+- git pull origin master: Comprobamos si hay cambios en el repositorio remoto.
+- git diff historia.txt: Comprobamos los cambios entre nuestro archivo historia.txt local y el archivo en el repositorio remoto.
+- git add .: Añadimos los cambios finales en historia.txt
+- git commit -m "Últimos comandos añadidos a historia.txt": Hacemos commit del cambio.
+- git push origin master: Publicamos los cambios en el repositorio remoto.
