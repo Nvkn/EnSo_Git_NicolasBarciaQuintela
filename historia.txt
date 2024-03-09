@@ -1,0 +1,5 @@
+# COMANDOS UTILIZADOS
+- git init: Inicializa un nuevo repositorio.
+- git status: Comprobamos el estado del repositorio.
+- git add .: Añadimos los archivos del repositorio al staging area.
+- git commit -m "Estructura de repositorios creada y documentos iniciales añadidos.": Hacemos commit de los cambios del stagging area y con el flag -m añadimos un mensaje personalizado indicando que hicimos.
